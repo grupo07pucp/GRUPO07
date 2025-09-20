@@ -47,7 +47,7 @@
   <img width="1281" height="674" alt="image" src="https://github.com/user-attachments/assets/ccf259cd-dd20-41ad-a5e4-fb20f18bb6ad" />
 
 
-  <h2>C1:Capa de datos</h2>
+  <h2>C1: Capa de datos</h2>
 <p>
   Como primera etapa del proyecto se organizó el conjunto de tablas que contienen los datos que describen nuestro caso de negocio. 
   Las tablas y las columnas que las conforman son las siguientes:
