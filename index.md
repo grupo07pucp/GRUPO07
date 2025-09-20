@@ -143,7 +143,7 @@ TotalFacturado = SUM('G7_Factura'[importe_total_factura])
   <p>
     Además, este diagrama resultó clave para comprender correctamente el negocio y asegurar que el diseño de la aplicación refleje de forma adecuada sus procesos y necesidades reales.
   </p>
-</div>
+
 <h4 id="">Diagrama de Flujo del funcionamiento del Negocio</h4>
 <p>
   <img width="1231" height="1369" alt="image" src="https://github.com/user-attachments/assets/caf08612-2cff-4de0-a729-abffd12a33b3" />
