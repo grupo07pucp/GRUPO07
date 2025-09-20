@@ -12,7 +12,6 @@
     <li>📊 Dado el peso estratégico de este cliente, es fundamental monitorear la facturación por proyecto de tienda, entendida como el monto promedio facturado por implementación.</li>
     <li>💡 Este indicador permite evaluar la consistencia en los precios, la eficiencia operativa y detectar oportunidades de mejora que impacten directamente en el resultado económico de la empresa.</li>
   </ul>
-</div>
 
 📌 **Descripción General del Proyecto - Arquitectura de Datos para FORMA RETAIL S.A.** 
 
@@ -552,7 +551,7 @@ TotalFacturado = SUM('G7_Factura'[importe_total_factura])
    <h5>➡️Pantalla-Drill Through <h5>
    <img width="800" height="400" alt="INFORME 10_DRILL THROUGH" src="https://github.com/user-attachments/assets/c6eea698-f83f-48e9-acab-e06c71a11de9" />
 
-  # Conlusión
+<h2>🎯 Conclusión</h2>
 <p>
   La construcción de esta aplicación marca un avance significativo para <strong>Forma Retail S.A.</strong>, al permitir centralizar y simplificar procesos clave como la gestión de presupuestos y facturación en un entorno digital unificado.
 </p>
